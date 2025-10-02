@@ -1,1 +1,9 @@
-# Budget-Planner
+# Budget Planner & Expense Tracker (Python)
+
+The Budget Planner & Expense Tracker is a simple Python project designed to help users understand and manage their finances in an organized manner. It provides a structured way to define a budget across categories such as food, rent, transport, and entertainment, and then track expenses against those categories. By analyzing spending patterns, the project enables users to monitor budget utilization and identify areas where overspending or savings occur.
+
+This project allows users to add expenses, categorize them, and compute totals for each budget category. It calculates how much of the allocated budget has been used and presents this as a percentage, making it easy to see where money is being spent efficiently or excessively. Additionally, the project generates an overall summary, including total budget, total spent, remaining balance, and overall utilization percentage. These insights help individuals develop better financial discipline and make more informed spending decisions.
+
+The design is intentionally lightweight, relying only on Python’s standard library and packaged as a single file. This makes it accessible to students, learners, and contributors who want to explore financial operations without dealing with complex dependencies. The codebase is also modular and easy to extend, making it a suitable base for projects such as budget forecasting, savings goal tracking, or integration with personal finance dashboards.
+
+Beyond its educational use, the Budget Planner & Expense Tracker demonstrates how simple programming logic can be applied to real-life financial scenarios. It serves as an excellent project for Hacktoberfest contributions, allowing participants to practice Python programming, understand finance fundamentals, and collaborate on useful tools. By combining clarity, functionality, and adaptability, this project provides both practical value and learning opportunities in personal financial management.
