@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 from typing import Dict, List
 import random
-
+# hacktoberfest project
 class Expense:
     def __init__(self, category: str, amount: float):
         self.category = category
